@@ -52,6 +52,4 @@ This project demonstrates customer analytics, segmentation techniques, dashboard
 
 # Customer Segmentation Analysis Dashboard
 
-<p align="center">
-  <img src="dashboard.png" width="1000">
-</p>
+![Customer Segmentation Dashboard](Screenshots/dashboard.png)
