@@ -49,3 +49,8 @@ Mall Customers Dataset containing:
 ## Outcome
 
 This project demonstrates customer analytics, segmentation techniques, dashboard development, and business intelligence reporting using Power BI.
+
+## Dashboard
+
+<img width="508" height="350" alt="Dashboard png" src="https://github.com/user-attachments/assets/5b08e6bc-5778-4b01-9b78-4047eee81d8f" />
+
